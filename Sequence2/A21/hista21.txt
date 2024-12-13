@@ -1,0 +1,178 @@
+echo ?(a)
+echo *?(aa)*
+echo *?(aa)b
+touch Xyzaaaaba
+echo *?(aa)b
+echo *?(aa)b*
+echo **(aa)b*
+echo *+(aa)b*
+ls
+touch aaXxy
+echo *+(aa)b*
+echo *+(aa)*
+echo *+(aa)
+echo *aa
+ls
+echo *+(aa)b*
+echo *aab*
+echo +*(ab)
+echo +(ab)
+echo *+(ab)
+echo *+(ab)*
+echo *ab*
+**(ab)*
+echo **(ab)*
+ls
+echo Xa*b
+echo *
+ls
+bash
+shopt -s extglob
+ls
+bash
+ls
+cd CC
+ls
+cd TEST_DEVOIR2/
+ls
+ll
+./test
+ll
+cd
+pwd
+ls
+test 
+pwd
+ls
+lf
+./dataair 
+ls
+ll
+pwd
+ls
+./dm2
+./dm2
+./dm2
+ls
+rm data.csv 
+clear
+echo le reveil du zorglub
+ls
+./dm2
+clear
+ls
+clear
+ls
+ls
+.dm2
+ll
+./dm2 
+exit;
+cat dm2 data.csv unFichier.txt
+cat dm2 data.csv unFichier.txt
+echo "l'ombre du zorglub"
+ls
+pwd
+ls
+sleep
+touch unFichier.txt
+cd alice/
+ls
+wc fichier1.txt 
+wc fichier2.txt 
+wc fichier1.txt 
+cp fichier2.txt fichier3.txt
+bash
+bash
+cd 
+cd ..
+ls
+cd personne/
+ls
+ls -l
+cd ..
+ls
+cd Guest/
+ls
+ls -l
+cd Public/
+ls
+ll
+ls -al
+cd ..
+id
+ll
+cd Recettes/
+sudo touch mission14.txt
+cd
+cd filesystem/
+ls
+cd alice/
+ls
+cd Sequence2/
+ls
+cd A22
+ls
+cd Images/
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+touch ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt
+ls
+touch ceci_est_un_autre_fichier_avec_un_nom_tres_long_aussi
+mv ceci_est_un_autre_fichier_avec_un_nom_tres_long_aussi  ceci_est_un_autre_fichier_avec_un_nom_tres_long_aussi.txt
+ls ceci_est_un_*
+echo Z comme zorglub | md5sum | cut -c1-3
+ls ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt 
+cp ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt ceci est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt
+ls
+ls ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt 
+cp ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt ceciest_un_fichier_dont_le_nom_est_vraiment_tres_long.txt
+ls
+ls
+ls ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt 
+ls .un .deux .trois
+ls .un .deux .trois
+ls
+echo vive zorglub
+man history
+man bash
+ls
+rm ceciest_un_fichier_dont_le_nom_est_vraiment_tres_long.txt*
+ls
+ls ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt 
+ls
+ls ceci*
+ls ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt 
+echo aux source du zorglub
+cp ceci_est_un_fichier_dont_le_nom_est_vraiment_tres_long.txt ceciestunfichierdontlenomestvraimenttreslong.txt
+cd ../Sequence1
+ls
+mkdir A14
+cd A14
+ls
+ll
+ls -l
+ls -al
+id
+ls -l
+cd 
+rm ceci*
+ls
+cd A22
+ls
+cd Images/
+pwd
+ls
+touch photo.jpg
+ls
+cd ..
+cp * ~/Sequence2/A22/Images/
+cd 
+ls
+cd ..
+pwd
+echo *

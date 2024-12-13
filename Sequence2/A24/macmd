@@ -1,0 +1,6 @@
+#!/bin/bash
+i=0
+while true ; do
+   ((i++%65000))
+done
+exit 0
