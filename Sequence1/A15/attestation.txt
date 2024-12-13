@@ -1,9 +1,9 @@
-Riviere Evelyne
+Ibrahima LY
 
-Objet : Attestation de suivi du MOOC Bash par Riviere Evelyne
+Objet : Attestation de suivi du system Linux Readhat par Ibrahima LY
 
-L'équipe du MOOC Bash de l'Université de la Réunion atteste que Riviere Evelyne a suivi le MOOC Bash et obtenu plus de 80% de réussite aux quizz, challenges et évaluations terminales.
+L'équipe du ReadHat atteste que Ibrahima LY a suivi le ReadHat et obtenu plus de 80% de réussite aux quizz, challenges et évaluations terminales.
 
-Riviere Evelyne est donc désormais tout à fait capable d'utiliser les substitutions de l'éditeur de texte VIM.
+Ibrahima LY est donc désormais tout à fait capable d'utiliser Linux et les substitutions de l'éditeur de texte VIM.
 
-        MOOC Bash, le 26/06/19.
+       Paris, le 14/12/2024.
